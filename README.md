@@ -2,6 +2,7 @@
 Python scripts for performing absorption correction on 3D STEM-EDX data
 
 Installation
+
 The main dependency for the package is pycuda. Full installation instructions 
 for pycuda can be found at https://wiki.tiker.net/PyCuda/Installation/Windows.
 
