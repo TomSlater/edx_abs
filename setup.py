@@ -8,7 +8,7 @@ setup(name='edx_abs',
       author_email='tjaslater@gmail.com',
       license='GPL-3.0+',
       packages=['edx_abs'],
-      install requires=[
+      install_requires=[
               'numpy',
               'scipy',
               'skimage',
