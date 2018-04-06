@@ -11,7 +11,7 @@ setup(name='edx_abs',
       install_requires=[
               'numpy',
               'scipy',
-              'skimage',
+              'scikit-image',
               'matplotlib',
               'astra-toolbox',
               ],
