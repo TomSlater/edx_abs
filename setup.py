@@ -13,6 +13,5 @@ setup(name='edx_abs',
               'scipy',
               'scikit-image',
               'matplotlib',
-              'astra-toolbox',
               ],
       zip_safe=False)
